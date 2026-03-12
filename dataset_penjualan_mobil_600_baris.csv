@@ -1,0 +1,601 @@
+Tanggal,Kota,Merek,Model,Tahun,Harga_Juta,Metode_Pembayaran,Status_Penjualan
+2025-02-20,Medan,Mitsubishi,Pajero Sport,2024,199,Cash,Terjual
+2023-08-21,Bandung,Mitsubishi,Pajero Sport,2023,136,Cash,Pending
+2024-09-29,Jakarta,Daihatsu,Sigra,2023,626,Leasing,Batal
+2025-04-19,Makassar,Mitsubishi,Pajero Sport,2022,340,Leasing,Pending
+2024-05-07,Surabaya,Toyota,Raize,2020,159,Leasing,Batal
+2024-08-29,Solo,Suzuki,XL7,2019,534,Kredit,Terjual
+2024-11-21,Solo,Daihatsu,Sigra,2024,382,Leasing,Batal
+2023-02-17,Surabaya,Daihatsu,Rocky,2024,495,Kredit,Terjual
+2024-01-15,Semarang,Honda,HR-V,2021,535,Leasing,Pending
+2025-05-17,Semarang,Mitsubishi,Xpander,2023,523,Leasing,Terjual
+2024-05-02,Semarang,Honda,Brio,2020,610,Cash,Batal
+2024-06-01,Jakarta,Mitsubishi,Pajero Sport,2023,175,Kredit,Pending
+2025-01-27,Bandung,Mitsubishi,Xpander,2022,635,Cash,Terjual
+2024-01-29,Surabaya,Mitsubishi,Xpander,2024,572,Cash,Batal
+2023-03-08,Makassar,Suzuki,XL7,2024,201,Cash,Pending
+2024-11-01,Makassar,Honda,Brio,2023,453,Kredit,Terjual
+2024-02-10,Makassar,Suzuki,Ertiga,2022,517,Leasing,Pending
+2023-06-20,Medan,Daihatsu,Rocky,2020,154,Kredit,Pending
+2024-09-25,Solo,Toyota,Raize,2022,402,Cash,Pending
+2024-10-13,Jakarta,Honda,HR-V,2023,479,Kredit,Terjual
+2024-03-23,Yogyakarta,Suzuki,Ertiga,2021,517,Kredit,Terjual
+2025-03-21,Bandung,Honda,CR-V,2024,327,Cash,Batal
+2024-08-31,Solo,Honda,Civic,2019,443,Leasing,Batal
+2024-02-14,Yogyakarta,Mitsubishi,Xpander,2022,566,Leasing,Terjual
+2024-06-13,Medan,Honda,Civic,2019,486,Leasing,Batal
+2024-02-19,Semarang,Mitsubishi,Pajero Sport,2020,535,Kredit,Batal
+2023-10-02,Solo,Suzuki,XL7,2022,200,Leasing,Terjual
+2024-02-20,Semarang,Daihatsu,Terios,2021,141,Cash,Terjual
+2025-05-10,Surabaya,Toyota,Avanza,2023,314,Cash,Terjual
+2023-09-30,Solo,Daihatsu,Sigra,2023,328,Cash,Terjual
+2025-02-04,Bandung,Toyota,Raize,2023,171,Leasing,Pending
+2024-11-21,Solo,Toyota,Fortuner,2023,501,Cash,Batal
+2025-03-23,Yogyakarta,Daihatsu,Sigra,2019,471,Kredit,Pending
+2023-06-01,Surabaya,Daihatsu,Sigra,2024,394,Kredit,Terjual
+2023-10-06,Bandung,Honda,CR-V,2018,574,Cash,Pending
+2023-09-16,Bandung,Mitsubishi,Xpander,2021,137,Leasing,Batal
+2024-09-20,Yogyakarta,Mitsubishi,Pajero Sport,2022,279,Cash,Pending
+2024-02-14,Surabaya,Suzuki,Ertiga,2018,505,Leasing,Batal
+2024-04-03,Bandung,Daihatsu,Rocky,2022,213,Kredit,Pending
+2023-01-10,Medan,Suzuki,Ertiga,2020,198,Cash,Batal
+2023-06-12,Solo,Mitsubishi,Pajero Sport,2018,346,Cash,Batal
+2024-05-21,Semarang,Mitsubishi,Pajero Sport,2020,290,Kredit,Pending
+2023-03-18,Medan,Honda,Brio,2019,527,Leasing,Terjual
+2023-06-03,Surabaya,Honda,CR-V,2024,138,Cash,Terjual
+2023-10-02,Bandung,Honda,HR-V,2024,539,Kredit,Batal
+2025-06-12,Makassar,Daihatsu,Sigra,2018,432,Leasing,Pending
+2024-06-02,Jakarta,Suzuki,Ertiga,2020,198,Kredit,Pending
+2025-02-20,Solo,Suzuki,XL7,2020,502,Leasing,Batal
+2023-10-20,Bandung,Honda,HR-V,2022,603,Kredit,Terjual
+2023-01-20,Surabaya,Honda,CR-V,2021,540,Leasing,Pending
+2024-01-06,Makassar,Mitsubishi,Pajero Sport,2022,471,Cash,Terjual
+2024-08-02,Solo,Mitsubishi,Xpander,2018,644,Kredit,Terjual
+2024-07-08,Medan,Suzuki,Baleno,2022,599,Kredit,Terjual
+2023-01-15,Medan,Honda,Brio,2022,514,Leasing,Terjual
+2023-05-27,Solo,Honda,Civic,2018,641,Cash,Pending
+2025-01-27,Bandung,Honda,Brio,2019,407,Kredit,Terjual
+2025-06-02,Surabaya,Toyota,Raize,2019,476,Leasing,Batal
+2023-12-09,Bandung,Suzuki,Ertiga,2019,644,Leasing,Pending
+2023-12-01,Solo,Suzuki,Ertiga,2021,346,Cash,Terjual
+2023-02-02,Surabaya,Suzuki,Baleno,2022,394,Kredit,Batal
+2025-04-23,Medan,Suzuki,Baleno,2023,491,Leasing,Pending
+2023-05-07,Jakarta,Honda,Civic,2023,239,Leasing,Pending
+2024-02-10,Solo,Honda,CR-V,2018,594,Leasing,Batal
+2024-02-06,Jakarta,Mitsubishi,Xpander,2024,327,Kredit,Batal
+2023-04-05,Solo,Daihatsu,Rocky,2018,396,Cash,Terjual
+2024-03-11,Jakarta,Toyota,Avanza,2019,621,Kredit,Pending
+2023-12-27,Jakarta,Daihatsu,Rocky,2024,451,Kredit,Terjual
+2024-12-17,Makassar,Mitsubishi,Xpander,2024,594,Cash,Batal
+2023-08-03,Solo,Honda,HR-V,2018,478,Kredit,Batal
+2024-12-13,Jakarta,Daihatsu,Terios,2023,415,Leasing,Terjual
+2024-09-13,Jakarta,Mitsubishi,Pajero Sport,2022,545,Kredit,Batal
+2023-08-08,Yogyakarta,Toyota,Fortuner,2018,459,Kredit,Terjual
+2024-10-29,Jakarta,Mitsubishi,Pajero Sport,2024,405,Cash,Batal
+2025-01-02,Jakarta,Mitsubishi,Xpander,2020,460,Kredit,Pending
+2024-05-15,Semarang,Daihatsu,Rocky,2022,434,Leasing,Pending
+2024-12-17,Semarang,Mitsubishi,Pajero Sport,2024,532,Kredit,Terjual
+2024-08-01,Semarang,Mitsubishi,Pajero Sport,2018,482,Kredit,Pending
+2024-05-11,Solo,Daihatsu,Terios,2021,546,Kredit,Pending
+2025-03-23,Solo,Honda,Brio,2021,306,Kredit,Batal
+2024-11-10,Yogyakarta,Daihatsu,Rocky,2019,629,Kredit,Batal
+2023-04-07,Jakarta,Mitsubishi,Pajero Sport,2019,380,Kredit,Pending
+2024-11-02,Medan,Honda,Civic,2019,289,Cash,Terjual
+2024-03-08,Solo,Honda,CR-V,2019,147,Cash,Terjual
+2025-03-19,Semarang,Daihatsu,Terios,2021,501,Kredit,Pending
+2023-12-31,Yogyakarta,Suzuki,Baleno,2021,269,Cash,Batal
+2023-06-12,Semarang,Toyota,Fortuner,2023,165,Cash,Batal
+2023-09-18,Bandung,Honda,CR-V,2020,609,Leasing,Terjual
+2023-09-21,Surabaya,Mitsubishi,Pajero Sport,2024,181,Cash,Terjual
+2023-01-14,Semarang,Honda,CR-V,2021,378,Leasing,Batal
+2024-10-03,Solo,Mitsubishi,Xpander,2023,522,Cash,Terjual
+2023-09-30,Jakarta,Mitsubishi,Pajero Sport,2022,381,Cash,Terjual
+2024-02-19,Medan,Toyota,Innova,2018,612,Leasing,Terjual
+2023-02-07,Bandung,Daihatsu,Terios,2021,364,Kredit,Pending
+2024-08-03,Solo,Daihatsu,Rocky,2022,497,Leasing,Terjual
+2023-07-30,Semarang,Honda,HR-V,2023,529,Leasing,Terjual
+2023-04-11,Semarang,Suzuki,Baleno,2023,296,Kredit,Pending
+2024-08-22,Jakarta,Mitsubishi,Xpander,2020,559,Cash,Batal
+2023-02-26,Surabaya,Toyota,Raize,2019,531,Leasing,Batal
+2023-02-01,Yogyakarta,Toyota,Raize,2022,577,Leasing,Batal
+2024-02-02,Medan,Mitsubishi,Pajero Sport,2021,649,Cash,Batal
+2023-08-24,Medan,Daihatsu,Sigra,2021,274,Kredit,Batal
+2023-01-18,Yogyakarta,Daihatsu,Terios,2023,648,Kredit,Pending
+2024-07-15,Surabaya,Mitsubishi,Xpander,2022,269,Leasing,Terjual
+2025-02-25,Surabaya,Suzuki,XL7,2020,169,Cash,Terjual
+2025-04-07,Semarang,Honda,HR-V,2019,426,Leasing,Pending
+2023-03-09,Makassar,Daihatsu,Terios,2022,226,Cash,Batal
+2023-01-16,Yogyakarta,Daihatsu,Sigra,2020,518,Cash,Pending
+2024-07-05,Bandung,Toyota,Raize,2020,334,Kredit,Terjual
+2025-06-19,Bandung,Mitsubishi,Xpander,2021,157,Leasing,Pending
+2023-03-25,Jakarta,Honda,HR-V,2024,585,Cash,Terjual
+2023-03-06,Jakarta,Daihatsu,Rocky,2024,587,Leasing,Pending
+2023-01-22,Medan,Mitsubishi,Pajero Sport,2018,342,Cash,Pending
+2025-03-28,Semarang,Daihatsu,Rocky,2019,322,Leasing,Terjual
+2024-12-20,Makassar,Honda,Brio,2018,381,Leasing,Pending
+2023-08-30,Medan,Mitsubishi,Xpander,2023,451,Leasing,Terjual
+2025-02-09,Semarang,Toyota,Innova,2022,578,Leasing,Pending
+2024-08-31,Makassar,Mitsubishi,Pajero Sport,2024,639,Leasing,Terjual
+2025-02-08,Solo,Toyota,Fortuner,2024,484,Leasing,Batal
+2023-12-04,Jakarta,Mitsubishi,Pajero Sport,2024,603,Leasing,Batal
+2023-01-06,Yogyakarta,Daihatsu,Rocky,2023,379,Cash,Pending
+2024-08-15,Solo,Daihatsu,Sigra,2020,300,Kredit,Pending
+2024-07-02,Jakarta,Daihatsu,Rocky,2021,359,Kredit,Pending
+2023-06-29,Surabaya,Honda,HR-V,2021,516,Leasing,Terjual
+2025-04-10,Medan,Daihatsu,Terios,2022,190,Leasing,Terjual
+2023-04-18,Makassar,Honda,HR-V,2019,539,Kredit,Terjual
+2025-03-24,Jakarta,Toyota,Innova,2019,491,Cash,Pending
+2024-10-05,Semarang,Honda,HR-V,2024,436,Cash,Terjual
+2023-12-09,Bandung,Honda,CR-V,2024,154,Kredit,Terjual
+2023-08-16,Makassar,Toyota,Raize,2020,369,Kredit,Batal
+2024-01-22,Solo,Toyota,Fortuner,2022,585,Leasing,Batal
+2024-09-24,Solo,Suzuki,XL7,2024,643,Cash,Terjual
+2025-03-23,Solo,Toyota,Fortuner,2019,584,Kredit,Batal
+2024-07-18,Makassar,Suzuki,XL7,2022,482,Leasing,Terjual
+2024-08-26,Bandung,Honda,CR-V,2021,217,Cash,Pending
+2023-11-24,Medan,Daihatsu,Rocky,2023,293,Cash,Pending
+2023-12-21,Medan,Honda,CR-V,2018,282,Cash,Terjual
+2023-02-08,Semarang,Toyota,Raize,2020,380,Leasing,Pending
+2023-09-14,Solo,Mitsubishi,Pajero Sport,2022,420,Kredit,Pending
+2023-05-31,Yogyakarta,Honda,CR-V,2022,263,Leasing,Batal
+2025-05-21,Semarang,Suzuki,XL7,2020,291,Leasing,Pending
+2024-03-15,Makassar,Toyota,Innova,2024,588,Kredit,Batal
+2024-04-27,Medan,Suzuki,XL7,2022,412,Leasing,Pending
+2023-06-04,Bandung,Toyota,Avanza,2021,570,Leasing,Terjual
+2024-09-17,Jakarta,Toyota,Avanza,2018,489,Kredit,Batal
+2024-09-19,Jakarta,Suzuki,Ertiga,2018,559,Cash,Batal
+2024-01-14,Solo,Toyota,Innova,2021,186,Kredit,Batal
+2023-03-19,Makassar,Mitsubishi,Xpander,2021,145,Leasing,Pending
+2023-09-28,Bandung,Honda,HR-V,2018,574,Leasing,Batal
+2023-01-25,Jakarta,Suzuki,XL7,2023,494,Kredit,Pending
+2024-06-28,Jakarta,Daihatsu,Terios,2019,246,Kredit,Batal
+2025-05-17,Bandung,Suzuki,Ertiga,2024,485,Leasing,Batal
+2023-05-14,Solo,Daihatsu,Sigra,2021,643,Leasing,Pending
+2024-02-09,Surabaya,Mitsubishi,Xpander,2019,256,Cash,Pending
+2023-11-11,Surabaya,Mitsubishi,Pajero Sport,2020,421,Cash,Terjual
+2024-09-28,Medan,Toyota,Innova,2020,361,Cash,Terjual
+2023-11-30,Medan,Suzuki,Ertiga,2020,129,Leasing,Batal
+2024-07-16,Surabaya,Suzuki,Ertiga,2022,434,Kredit,Terjual
+2024-04-05,Jakarta,Suzuki,Ertiga,2020,404,Leasing,Pending
+2023-12-10,Yogyakarta,Toyota,Fortuner,2022,193,Leasing,Pending
+2025-04-27,Surabaya,Daihatsu,Sigra,2021,268,Leasing,Terjual
+2023-01-05,Yogyakarta,Honda,HR-V,2019,262,Cash,Terjual
+2024-07-09,Jakarta,Daihatsu,Sigra,2019,184,Cash,Terjual
+2025-06-13,Solo,Suzuki,Ertiga,2023,343,Cash,Batal
+2023-08-07,Jakarta,Suzuki,XL7,2018,153,Leasing,Pending
+2025-02-22,Medan,Mitsubishi,Xpander,2022,466,Leasing,Pending
+2024-07-12,Semarang,Honda,Brio,2019,285,Leasing,Batal
+2024-07-04,Yogyakarta,Suzuki,XL7,2021,245,Leasing,Pending
+2023-06-19,Surabaya,Mitsubishi,Pajero Sport,2019,220,Kredit,Pending
+2023-06-07,Jakarta,Honda,CR-V,2022,571,Kredit,Batal
+2023-12-22,Bandung,Daihatsu,Sigra,2018,452,Kredit,Terjual
+2024-10-28,Jakarta,Suzuki,XL7,2023,561,Kredit,Batal
+2024-08-27,Solo,Suzuki,XL7,2019,523,Cash,Batal
+2024-09-09,Jakarta,Honda,Brio,2024,625,Cash,Pending
+2024-07-07,Semarang,Mitsubishi,Xpander,2020,230,Kredit,Pending
+2025-01-03,Solo,Daihatsu,Sigra,2018,309,Cash,Pending
+2023-03-27,Jakarta,Suzuki,Ertiga,2022,565,Leasing,Pending
+2024-04-21,Solo,Suzuki,XL7,2019,436,Leasing,Terjual
+2023-03-13,Jakarta,Mitsubishi,Pajero Sport,2020,470,Kredit,Batal
+2023-10-04,Surabaya,Toyota,Fortuner,2024,586,Cash,Pending
+2024-04-30,Jakarta,Daihatsu,Sigra,2019,187,Kredit,Batal
+2025-04-11,Makassar,Daihatsu,Sigra,2021,419,Leasing,Terjual
+2025-03-26,Surabaya,Toyota,Innova,2021,447,Kredit,Terjual
+2023-05-13,Makassar,Toyota,Innova,2018,602,Leasing,Terjual
+2024-03-13,Medan,Honda,Brio,2018,569,Leasing,Pending
+2024-12-26,Surabaya,Toyota,Raize,2024,131,Cash,Batal
+2024-01-04,Solo,Mitsubishi,Xpander,2024,517,Kredit,Terjual
+2023-05-29,Bandung,Toyota,Avanza,2022,571,Cash,Terjual
+2024-02-20,Solo,Daihatsu,Terios,2020,467,Cash,Pending
+2023-10-24,Solo,Suzuki,Baleno,2020,461,Cash,Terjual
+2024-08-18,Surabaya,Mitsubishi,Pajero Sport,2023,213,Cash,Batal
+2024-04-16,Jakarta,Honda,HR-V,2021,458,Leasing,Terjual
+2024-12-15,Solo,Suzuki,Ertiga,2018,404,Kredit,Pending
+2023-04-27,Bandung,Mitsubishi,Xpander,2020,388,Cash,Pending
+2023-03-01,Jakarta,Mitsubishi,Xpander,2020,282,Cash,Pending
+2025-06-10,Solo,Toyota,Raize,2023,151,Kredit,Batal
+2023-03-15,Jakarta,Honda,CR-V,2018,592,Cash,Batal
+2024-01-21,Surabaya,Toyota,Fortuner,2022,480,Leasing,Pending
+2023-02-17,Surabaya,Toyota,Raize,2024,600,Cash,Terjual
+2023-06-13,Semarang,Daihatsu,Terios,2022,350,Kredit,Pending
+2023-06-26,Jakarta,Daihatsu,Sigra,2022,377,Kredit,Pending
+2023-01-28,Yogyakarta,Daihatsu,Rocky,2021,259,Cash,Terjual
+2024-06-07,Solo,Suzuki,Ertiga,2018,424,Leasing,Pending
+2023-08-28,Semarang,Suzuki,Baleno,2024,457,Cash,Batal
+2025-05-03,Solo,Suzuki,Ertiga,2022,269,Leasing,Batal
+2024-01-15,Yogyakarta,Suzuki,XL7,2024,401,Cash,Terjual
+2023-11-21,Jakarta,Toyota,Fortuner,2021,281,Leasing,Batal
+2023-07-22,Jakarta,Mitsubishi,Pajero Sport,2021,294,Cash,Batal
+2025-01-25,Surabaya,Toyota,Raize,2024,341,Leasing,Batal
+2023-02-23,Solo,Mitsubishi,Pajero Sport,2022,195,Kredit,Pending
+2023-05-13,Yogyakarta,Daihatsu,Rocky,2024,155,Kredit,Batal
+2024-08-13,Solo,Daihatsu,Sigra,2022,639,Kredit,Terjual
+2024-07-14,Solo,Toyota,Raize,2019,379,Cash,Terjual
+2025-06-06,Bandung,Mitsubishi,Pajero Sport,2020,446,Leasing,Terjual
+2024-05-19,Semarang,Mitsubishi,Pajero Sport,2020,624,Leasing,Terjual
+2024-09-28,Solo,Mitsubishi,Pajero Sport,2021,612,Leasing,Terjual
+2025-01-25,Surabaya,Mitsubishi,Pajero Sport,2019,276,Cash,Pending
+2025-06-07,Semarang,Honda,HR-V,2022,270,Leasing,Terjual
+2025-06-17,Bandung,Suzuki,XL7,2020,267,Leasing,Batal
+2024-11-24,Solo,Suzuki,Baleno,2024,142,Leasing,Terjual
+2024-09-29,Medan,Suzuki,Ertiga,2019,330,Leasing,Pending
+2025-04-17,Surabaya,Suzuki,Baleno,2022,187,Cash,Pending
+2024-10-11,Surabaya,Daihatsu,Terios,2023,612,Leasing,Terjual
+2025-01-26,Jakarta,Daihatsu,Rocky,2023,221,Kredit,Pending
+2024-06-23,Surabaya,Suzuki,XL7,2024,163,Kredit,Batal
+2024-09-11,Yogyakarta,Daihatsu,Terios,2024,222,Cash,Pending
+2025-04-18,Yogyakarta,Daihatsu,Rocky,2018,129,Leasing,Terjual
+2023-06-01,Makassar,Honda,HR-V,2018,281,Cash,Batal
+2023-11-09,Surabaya,Daihatsu,Rocky,2019,389,Leasing,Terjual
+2023-01-24,Jakarta,Mitsubishi,Pajero Sport,2020,567,Kredit,Batal
+2024-09-12,Medan,Toyota,Raize,2019,427,Cash,Batal
+2023-03-18,Solo,Toyota,Raize,2023,524,Kredit,Pending
+2023-07-15,Bandung,Toyota,Raize,2020,488,Kredit,Pending
+2024-03-14,Semarang,Daihatsu,Rocky,2018,224,Cash,Terjual
+2025-05-04,Jakarta,Suzuki,XL7,2018,509,Cash,Batal
+2023-10-01,Yogyakarta,Suzuki,Baleno,2024,248,Cash,Batal
+2024-04-27,Jakarta,Daihatsu,Sigra,2018,241,Kredit,Terjual
+2023-09-11,Surabaya,Toyota,Innova,2024,256,Cash,Batal
+2024-04-17,Medan,Suzuki,Ertiga,2020,311,Cash,Batal
+2023-08-31,Bandung,Daihatsu,Sigra,2019,279,Cash,Batal
+2023-12-30,Jakarta,Daihatsu,Sigra,2022,413,Kredit,Batal
+2025-02-15,Makassar,Daihatsu,Terios,2018,158,Cash,Pending
+2024-01-23,Yogyakarta,Honda,HR-V,2024,483,Kredit,Batal
+2023-06-18,Bandung,Honda,Civic,2021,425,Kredit,Pending
+2024-07-21,Makassar,Honda,Brio,2023,203,Kredit,Batal
+2025-03-28,Bandung,Honda,CR-V,2019,570,Leasing,Terjual
+2024-10-15,Solo,Suzuki,Ertiga,2024,544,Cash,Batal
+2023-12-13,Yogyakarta,Mitsubishi,Xpander,2023,386,Kredit,Terjual
+2025-01-17,Yogyakarta,Toyota,Fortuner,2019,387,Cash,Terjual
+2023-02-02,Yogyakarta,Mitsubishi,Pajero Sport,2024,376,Cash,Terjual
+2024-06-07,Surabaya,Toyota,Raize,2019,534,Cash,Pending
+2023-01-05,Medan,Honda,CR-V,2020,411,Cash,Terjual
+2023-12-12,Semarang,Daihatsu,Sigra,2022,291,Kredit,Terjual
+2023-11-25,Jakarta,Suzuki,Ertiga,2021,323,Leasing,Pending
+2025-04-02,Semarang,Toyota,Fortuner,2020,254,Cash,Terjual
+2024-07-11,Yogyakarta,Mitsubishi,Pajero Sport,2018,582,Leasing,Pending
+2025-05-25,Makassar,Daihatsu,Sigra,2024,498,Kredit,Pending
+2025-06-12,Semarang,Suzuki,XL7,2020,520,Leasing,Pending
+2024-07-14,Jakarta,Toyota,Innova,2020,642,Cash,Terjual
+2023-09-26,Makassar,Mitsubishi,Pajero Sport,2019,635,Leasing,Terjual
+2024-02-23,Bandung,Daihatsu,Terios,2020,315,Leasing,Batal
+2024-06-19,Jakarta,Suzuki,Baleno,2024,392,Cash,Terjual
+2024-05-26,Yogyakarta,Mitsubishi,Xpander,2018,316,Cash,Pending
+2023-07-31,Jakarta,Honda,Brio,2024,648,Leasing,Terjual
+2024-09-02,Makassar,Daihatsu,Rocky,2019,286,Leasing,Terjual
+2025-06-06,Jakarta,Toyota,Innova,2022,378,Leasing,Pending
+2025-03-08,Yogyakarta,Daihatsu,Sigra,2020,634,Cash,Terjual
+2024-10-19,Bandung,Daihatsu,Sigra,2018,121,Cash,Terjual
+2024-12-20,Jakarta,Honda,HR-V,2020,467,Cash,Pending
+2024-06-14,Semarang,Mitsubishi,Xpander,2021,424,Leasing,Pending
+2023-08-09,Medan,Mitsubishi,Pajero Sport,2018,606,Kredit,Pending
+2024-08-21,Surabaya,Honda,HR-V,2021,148,Leasing,Terjual
+2024-08-25,Yogyakarta,Honda,HR-V,2020,427,Leasing,Terjual
+2025-03-24,Surabaya,Mitsubishi,Pajero Sport,2024,414,Kredit,Pending
+2024-12-20,Jakarta,Suzuki,Baleno,2024,434,Cash,Terjual
+2024-12-26,Makassar,Daihatsu,Sigra,2024,397,Cash,Pending
+2024-07-10,Medan,Toyota,Innova,2018,413,Kredit,Terjual
+2025-06-03,Semarang,Honda,Civic,2022,580,Cash,Batal
+2024-11-22,Semarang,Toyota,Avanza,2022,465,Leasing,Pending
+2024-05-20,Solo,Daihatsu,Sigra,2021,459,Kredit,Terjual
+2024-06-28,Makassar,Honda,Civic,2020,624,Kredit,Terjual
+2025-03-26,Yogyakarta,Honda,CR-V,2019,251,Kredit,Batal
+2023-09-22,Makassar,Honda,CR-V,2020,376,Leasing,Batal
+2023-06-23,Makassar,Honda,Civic,2020,325,Kredit,Batal
+2023-07-04,Makassar,Mitsubishi,Xpander,2018,442,Cash,Batal
+2025-04-11,Semarang,Mitsubishi,Pajero Sport,2022,621,Leasing,Pending
+2023-05-03,Semarang,Mitsubishi,Xpander,2022,485,Cash,Batal
+2023-09-28,Bandung,Mitsubishi,Xpander,2018,201,Kredit,Batal
+2024-03-12,Makassar,Daihatsu,Sigra,2023,573,Leasing,Batal
+2023-04-26,Yogyakarta,Mitsubishi,Pajero Sport,2019,452,Kredit,Pending
+2023-07-10,Surabaya,Daihatsu,Rocky,2024,226,Kredit,Pending
+2024-09-22,Medan,Suzuki,Ertiga,2024,575,Leasing,Terjual
+2024-10-18,Makassar,Suzuki,Baleno,2018,424,Cash,Terjual
+2025-03-30,Medan,Honda,CR-V,2019,383,Cash,Batal
+2023-12-07,Solo,Mitsubishi,Xpander,2022,228,Leasing,Batal
+2024-11-17,Medan,Daihatsu,Sigra,2021,441,Cash,Terjual
+2023-01-25,Jakarta,Mitsubishi,Xpander,2021,480,Cash,Pending
+2023-02-15,Yogyakarta,Toyota,Raize,2024,479,Leasing,Pending
+2024-09-14,Medan,Suzuki,XL7,2022,490,Kredit,Pending
+2024-01-21,Bandung,Suzuki,Ertiga,2024,259,Cash,Pending
+2023-10-09,Jakarta,Daihatsu,Sigra,2020,596,Cash,Batal
+2023-05-03,Semarang,Mitsubishi,Pajero Sport,2024,147,Leasing,Pending
+2024-01-23,Surabaya,Suzuki,Baleno,2020,358,Leasing,Terjual
+2025-05-27,Bandung,Suzuki,Ertiga,2019,575,Leasing,Terjual
+2023-04-23,Bandung,Mitsubishi,Xpander,2023,395,Cash,Pending
+2023-10-04,Surabaya,Toyota,Raize,2018,449,Cash,Batal
+2024-06-12,Jakarta,Daihatsu,Sigra,2020,572,Leasing,Pending
+2023-06-27,Medan,Toyota,Fortuner,2018,509,Leasing,Terjual
+2023-09-20,Makassar,Suzuki,XL7,2024,621,Kredit,Terjual
+2024-11-26,Jakarta,Daihatsu,Sigra,2020,562,Kredit,Terjual
+2023-07-26,Semarang,Daihatsu,Sigra,2023,494,Cash,Terjual
+2023-07-18,Yogyakarta,Suzuki,Baleno,2018,428,Leasing,Batal
+2024-12-16,Bandung,Honda,CR-V,2022,293,Cash,Batal
+2024-02-01,Yogyakarta,Honda,HR-V,2021,561,Kredit,Batal
+2024-06-24,Yogyakarta,Honda,CR-V,2024,310,Kredit,Terjual
+2023-06-18,Makassar,Toyota,Avanza,2023,288,Cash,Pending
+2025-06-05,Makassar,Mitsubishi,Xpander,2024,312,Kredit,Terjual
+2024-09-07,Surabaya,Mitsubishi,Pajero Sport,2024,562,Kredit,Batal
+2023-11-30,Bandung,Toyota,Avanza,2019,375,Kredit,Batal
+2025-05-21,Makassar,Suzuki,XL7,2023,305,Kredit,Terjual
+2023-06-18,Surabaya,Toyota,Raize,2019,511,Cash,Terjual
+2025-05-01,Jakarta,Suzuki,XL7,2023,422,Cash,Batal
+2023-06-02,Solo,Honda,Civic,2022,358,Leasing,Terjual
+2025-01-14,Solo,Daihatsu,Rocky,2019,586,Kredit,Pending
+2023-01-21,Yogyakarta,Daihatsu,Sigra,2018,635,Cash,Terjual
+2025-05-31,Makassar,Suzuki,Baleno,2018,436,Kredit,Pending
+2025-03-03,Medan,Mitsubishi,Pajero Sport,2023,367,Leasing,Pending
+2023-02-10,Yogyakarta,Suzuki,Baleno,2021,210,Cash,Batal
+2023-01-13,Semarang,Mitsubishi,Pajero Sport,2024,382,Cash,Terjual
+2023-05-02,Medan,Toyota,Fortuner,2019,354,Leasing,Pending
+2023-09-13,Makassar,Suzuki,XL7,2021,646,Kredit,Terjual
+2024-01-02,Yogyakarta,Mitsubishi,Xpander,2022,159,Cash,Pending
+2024-02-19,Makassar,Honda,Civic,2020,340,Kredit,Terjual
+2025-05-07,Semarang,Daihatsu,Sigra,2023,288,Kredit,Pending
+2023-03-20,Yogyakarta,Toyota,Innova,2023,519,Kredit,Pending
+2025-05-06,Surabaya,Mitsubishi,Pajero Sport,2024,418,Leasing,Terjual
+2023-07-06,Semarang,Mitsubishi,Xpander,2019,204,Leasing,Pending
+2024-08-08,Yogyakarta,Daihatsu,Sigra,2022,605,Leasing,Pending
+2024-09-30,Solo,Suzuki,Ertiga,2022,323,Kredit,Batal
+2024-01-04,Surabaya,Honda,Civic,2019,413,Cash,Pending
+2024-06-21,Jakarta,Honda,CR-V,2023,372,Leasing,Batal
+2024-07-25,Solo,Mitsubishi,Xpander,2018,319,Kredit,Batal
+2024-03-01,Solo,Daihatsu,Sigra,2018,345,Leasing,Batal
+2024-12-26,Solo,Toyota,Innova,2023,328,Cash,Batal
+2024-11-02,Solo,Mitsubishi,Xpander,2019,167,Leasing,Batal
+2024-02-19,Yogyakarta,Honda,Brio,2023,315,Leasing,Pending
+2025-06-09,Makassar,Honda,CR-V,2023,624,Cash,Batal
+2024-07-20,Makassar,Daihatsu,Terios,2018,468,Kredit,Pending
+2024-12-24,Solo,Toyota,Innova,2023,608,Leasing,Batal
+2024-12-16,Solo,Daihatsu,Sigra,2018,146,Leasing,Terjual
+2024-08-09,Yogyakarta,Daihatsu,Terios,2018,645,Kredit,Pending
+2023-09-18,Semarang,Toyota,Innova,2024,234,Leasing,Pending
+2025-06-10,Bandung,Honda,Brio,2020,455,Leasing,Pending
+2025-05-06,Medan,Suzuki,Ertiga,2022,296,Cash,Terjual
+2023-11-29,Jakarta,Daihatsu,Rocky,2018,417,Kredit,Pending
+2025-03-04,Makassar,Honda,Brio,2019,400,Cash,Pending
+2024-05-11,Makassar,Toyota,Avanza,2020,394,Kredit,Pending
+2023-12-27,Medan,Mitsubishi,Pajero Sport,2019,394,Kredit,Pending
+2023-12-26,Semarang,Toyota,Fortuner,2021,396,Kredit,Pending
+2023-10-11,Medan,Daihatsu,Sigra,2018,131,Cash,Terjual
+2025-05-28,Surabaya,Mitsubishi,Pajero Sport,2021,505,Cash,Pending
+2023-08-06,Solo,Honda,HR-V,2021,408,Cash,Batal
+2023-01-10,Semarang,Daihatsu,Terios,2018,583,Kredit,Batal
+2024-06-24,Surabaya,Suzuki,XL7,2023,325,Leasing,Batal
+2024-03-04,Semarang,Mitsubishi,Pajero Sport,2024,368,Kredit,Terjual
+2024-07-19,Bandung,Suzuki,Ertiga,2022,549,Cash,Batal
+2023-06-21,Jakarta,Toyota,Innova,2020,191,Kredit,Batal
+2023-04-17,Bandung,Daihatsu,Rocky,2022,272,Kredit,Terjual
+2023-08-29,Bandung,Daihatsu,Sigra,2020,539,Kredit,Terjual
+2023-04-06,Surabaya,Daihatsu,Sigra,2020,592,Leasing,Pending
+2024-09-19,Bandung,Suzuki,Baleno,2018,443,Kredit,Terjual
+2024-07-14,Medan,Mitsubishi,Xpander,2023,128,Leasing,Terjual
+2025-04-08,Semarang,Suzuki,XL7,2024,441,Kredit,Terjual
+2024-09-30,Surabaya,Mitsubishi,Pajero Sport,2019,513,Cash,Batal
+2023-04-25,Makassar,Toyota,Raize,2023,516,Kredit,Pending
+2024-01-27,Solo,Honda,Brio,2023,589,Cash,Terjual
+2025-05-01,Yogyakarta,Honda,CR-V,2019,419,Leasing,Batal
+2025-02-01,Makassar,Daihatsu,Rocky,2022,525,Cash,Batal
+2024-03-31,Jakarta,Suzuki,XL7,2024,370,Cash,Pending
+2024-03-13,Surabaya,Daihatsu,Terios,2021,382,Cash,Pending
+2024-03-07,Surabaya,Mitsubishi,Pajero Sport,2022,149,Cash,Terjual
+2025-06-06,Jakarta,Daihatsu,Terios,2018,442,Cash,Terjual
+2023-07-03,Bandung,Suzuki,XL7,2019,517,Kredit,Pending
+2024-12-29,Bandung,Mitsubishi,Pajero Sport,2024,587,Kredit,Pending
+2024-10-06,Solo,Toyota,Fortuner,2023,300,Kredit,Batal
+2023-07-28,Makassar,Honda,Civic,2023,522,Leasing,Terjual
+2023-09-08,Bandung,Suzuki,Baleno,2023,261,Leasing,Batal
+2023-10-24,Medan,Suzuki,Ertiga,2019,162,Leasing,Pending
+2023-07-07,Surabaya,Suzuki,XL7,2020,583,Kredit,Pending
+2024-07-27,Semarang,Mitsubishi,Xpander,2020,617,Kredit,Pending
+2025-03-20,Semarang,Mitsubishi,Pajero Sport,2021,133,Cash,Terjual
+2023-02-18,Makassar,Mitsubishi,Pajero Sport,2022,338,Cash,Terjual
+2025-04-07,Jakarta,Toyota,Innova,2022,596,Leasing,Terjual
+2024-11-05,Bandung,Honda,Brio,2019,514,Leasing,Pending
+2023-05-08,Yogyakarta,Honda,Brio,2023,358,Cash,Terjual
+2024-07-02,Medan,Suzuki,Ertiga,2020,466,Cash,Terjual
+2025-05-11,Jakarta,Toyota,Fortuner,2022,325,Cash,Batal
+2023-11-27,Medan,Toyota,Raize,2020,273,Leasing,Batal
+2025-05-12,Surabaya,Daihatsu,Rocky,2021,337,Cash,Terjual
+2025-06-11,Surabaya,Daihatsu,Terios,2023,182,Kredit,Pending
+2023-04-11,Yogyakarta,Suzuki,Ertiga,2024,268,Leasing,Pending
+2023-05-31,Bandung,Mitsubishi,Xpander,2018,460,Leasing,Terjual
+2025-02-20,Makassar,Honda,Civic,2024,131,Kredit,Terjual
+2024-11-06,Jakarta,Honda,Civic,2019,360,Cash,Pending
+2024-07-10,Bandung,Honda,CR-V,2020,456,Kredit,Batal
+2024-02-24,Medan,Toyota,Fortuner,2021,526,Leasing,Batal
+2024-06-28,Surabaya,Suzuki,Baleno,2022,370,Kredit,Pending
+2024-03-19,Makassar,Mitsubishi,Pajero Sport,2018,232,Cash,Terjual
+2023-07-03,Semarang,Suzuki,XL7,2019,425,Leasing,Batal
+2023-01-17,Yogyakarta,Suzuki,XL7,2024,335,Kredit,Terjual
+2024-09-15,Yogyakarta,Honda,Civic,2020,222,Cash,Pending
+2024-05-08,Makassar,Suzuki,XL7,2021,276,Leasing,Pending
+2025-04-08,Jakarta,Suzuki,XL7,2023,231,Kredit,Pending
+2025-04-12,Bandung,Suzuki,XL7,2021,646,Leasing,Batal
+2024-10-17,Jakarta,Toyota,Raize,2018,604,Cash,Pending
+2024-07-28,Surabaya,Toyota,Avanza,2024,264,Kredit,Batal
+2024-09-24,Bandung,Toyota,Innova,2024,362,Kredit,Terjual
+2025-04-24,Bandung,Mitsubishi,Xpander,2019,266,Leasing,Terjual
+2024-06-19,Jakarta,Daihatsu,Sigra,2022,457,Kredit,Batal
+2023-06-08,Bandung,Suzuki,Baleno,2019,490,Cash,Terjual
+2024-03-23,Bandung,Toyota,Innova,2021,367,Leasing,Terjual
+2023-10-28,Medan,Daihatsu,Sigra,2020,265,Kredit,Pending
+2023-08-29,Surabaya,Suzuki,Ertiga,2023,128,Kredit,Pending
+2024-01-25,Makassar,Toyota,Raize,2022,629,Kredit,Batal
+2025-04-20,Bandung,Honda,HR-V,2021,134,Leasing,Terjual
+2023-01-25,Semarang,Toyota,Innova,2018,640,Cash,Pending
+2023-11-05,Yogyakarta,Toyota,Innova,2024,477,Leasing,Pending
+2025-04-05,Surabaya,Daihatsu,Terios,2018,321,Kredit,Pending
+2024-06-12,Surabaya,Mitsubishi,Pajero Sport,2023,373,Cash,Terjual
+2023-11-22,Surabaya,Toyota,Innova,2019,489,Leasing,Terjual
+2023-12-14,Surabaya,Honda,HR-V,2023,301,Leasing,Batal
+2023-07-08,Solo,Honda,HR-V,2024,459,Cash,Terjual
+2023-06-13,Jakarta,Mitsubishi,Xpander,2018,582,Kredit,Batal
+2024-10-25,Semarang,Daihatsu,Sigra,2020,472,Leasing,Pending
+2024-06-01,Medan,Mitsubishi,Xpander,2022,483,Kredit,Batal
+2024-02-25,Makassar,Suzuki,Ertiga,2022,539,Cash,Terjual
+2024-10-26,Surabaya,Toyota,Avanza,2019,222,Leasing,Terjual
+2023-03-08,Semarang,Mitsubishi,Pajero Sport,2018,289,Cash,Terjual
+2024-09-22,Surabaya,Mitsubishi,Pajero Sport,2023,340,Kredit,Batal
+2025-02-19,Makassar,Suzuki,Ertiga,2020,473,Kredit,Pending
+2024-07-05,Makassar,Daihatsu,Sigra,2022,231,Cash,Terjual
+2023-01-31,Medan,Suzuki,Ertiga,2021,137,Kredit,Batal
+2025-02-26,Bandung,Toyota,Innova,2020,626,Kredit,Batal
+2024-07-26,Jakarta,Toyota,Raize,2024,505,Kredit,Batal
+2024-03-15,Medan,Mitsubishi,Xpander,2020,377,Kredit,Terjual
+2023-08-03,Medan,Mitsubishi,Pajero Sport,2024,201,Kredit,Pending
+2024-06-08,Medan,Daihatsu,Rocky,2024,425,Leasing,Pending
+2025-02-06,Surabaya,Mitsubishi,Xpander,2021,284,Kredit,Pending
+2025-03-23,Yogyakarta,Daihatsu,Rocky,2021,300,Kredit,Terjual
+2024-08-22,Solo,Honda,CR-V,2019,369,Kredit,Batal
+2024-07-15,Surabaya,Suzuki,XL7,2023,328,Cash,Terjual
+2023-03-03,Makassar,Toyota,Avanza,2022,317,Cash,Pending
+2023-05-01,Bandung,Honda,Civic,2022,148,Leasing,Pending
+2024-01-18,Semarang,Honda,Civic,2019,245,Leasing,Batal
+2024-05-18,Jakarta,Honda,HR-V,2023,338,Leasing,Batal
+2023-11-05,Surabaya,Mitsubishi,Xpander,2018,619,Cash,Pending
+2023-01-26,Semarang,Daihatsu,Terios,2022,348,Kredit,Pending
+2024-09-19,Bandung,Daihatsu,Terios,2020,614,Kredit,Pending
+2024-05-20,Bandung,Daihatsu,Rocky,2019,385,Leasing,Terjual
+2025-01-31,Yogyakarta,Suzuki,XL7,2021,647,Cash,Batal
+2024-05-27,Jakarta,Toyota,Avanza,2024,422,Kredit,Batal
+2025-04-03,Solo,Toyota,Avanza,2018,488,Cash,Pending
+2023-09-06,Semarang,Honda,CR-V,2023,514,Cash,Pending
+2023-06-01,Jakarta,Daihatsu,Sigra,2018,474,Leasing,Pending
+2023-05-29,Solo,Daihatsu,Rocky,2022,232,Kredit,Pending
+2024-03-11,Bandung,Daihatsu,Terios,2023,386,Kredit,Batal
+2023-10-28,Jakarta,Honda,Brio,2023,167,Kredit,Terjual
+2023-04-24,Solo,Suzuki,Ertiga,2018,648,Kredit,Terjual
+2025-05-22,Medan,Suzuki,Baleno,2023,381,Leasing,Batal
+2023-12-03,Jakarta,Daihatsu,Rocky,2018,521,Leasing,Terjual
+2023-07-16,Semarang,Honda,Brio,2024,508,Kredit,Pending
+2025-05-05,Makassar,Mitsubishi,Pajero Sport,2023,502,Cash,Pending
+2023-04-13,Jakarta,Mitsubishi,Pajero Sport,2023,324,Cash,Pending
+2025-03-16,Solo,Daihatsu,Rocky,2023,546,Kredit,Batal
+2024-05-27,Jakarta,Suzuki,XL7,2020,549,Leasing,Pending
+2023-03-30,Bandung,Honda,HR-V,2023,623,Cash,Batal
+2025-05-23,Solo,Mitsubishi,Xpander,2023,259,Leasing,Terjual
+2023-11-28,Medan,Mitsubishi,Pajero Sport,2020,315,Cash,Batal
+2024-05-15,Semarang,Honda,Civic,2021,140,Kredit,Terjual
+2023-07-23,Medan,Honda,HR-V,2024,401,Cash,Pending
+2024-06-25,Makassar,Honda,Civic,2021,637,Leasing,Pending
+2023-11-22,Surabaya,Mitsubishi,Pajero Sport,2018,592,Leasing,Pending
+2025-05-13,Bandung,Daihatsu,Sigra,2018,501,Cash,Batal
+2024-03-07,Medan,Toyota,Raize,2018,187,Cash,Batal
+2024-10-09,Solo,Toyota,Innova,2024,133,Cash,Pending
+2024-08-09,Solo,Toyota,Avanza,2018,506,Leasing,Pending
+2024-03-12,Jakarta,Daihatsu,Terios,2018,220,Cash,Batal
+2025-03-26,Semarang,Daihatsu,Terios,2024,648,Leasing,Batal
+2023-05-24,Jakarta,Mitsubishi,Xpander,2021,265,Cash,Terjual
+2023-12-04,Makassar,Daihatsu,Terios,2024,539,Leasing,Pending
+2025-06-12,Yogyakarta,Toyota,Innova,2022,144,Cash,Terjual
+2024-02-25,Medan,Toyota,Raize,2024,521,Kredit,Terjual
+2024-09-01,Jakarta,Daihatsu,Terios,2019,165,Cash,Terjual
+2023-07-26,Surabaya,Mitsubishi,Pajero Sport,2018,508,Leasing,Pending
+2024-02-29,Surabaya,Mitsubishi,Xpander,2023,626,Kredit,Terjual
+2024-01-13,Bandung,Mitsubishi,Pajero Sport,2018,627,Leasing,Terjual
+2025-04-29,Solo,Daihatsu,Rocky,2021,227,Kredit,Batal
+2025-02-26,Bandung,Suzuki,XL7,2021,330,Leasing,Batal
+2023-09-03,Yogyakarta,Honda,Civic,2022,250,Kredit,Batal
+2023-01-31,Medan,Daihatsu,Sigra,2022,294,Kredit,Batal
+2023-08-27,Jakarta,Mitsubishi,Pajero Sport,2019,649,Kredit,Pending
+2024-06-22,Solo,Suzuki,Baleno,2022,500,Leasing,Batal
+2024-03-26,Makassar,Toyota,Raize,2018,532,Leasing,Pending
+2023-05-11,Makassar,Suzuki,XL7,2021,564,Kredit,Terjual
+2025-04-12,Solo,Mitsubishi,Pajero Sport,2020,152,Cash,Terjual
+2024-06-29,Solo,Honda,Civic,2018,553,Leasing,Pending
+2023-01-21,Solo,Honda,HR-V,2019,269,Kredit,Pending
+2023-11-22,Solo,Toyota,Fortuner,2021,395,Cash,Terjual
+2025-02-04,Bandung,Honda,HR-V,2020,585,Kredit,Batal
+2024-10-13,Makassar,Mitsubishi,Pajero Sport,2021,156,Kredit,Batal
+2023-12-26,Semarang,Toyota,Raize,2018,364,Cash,Pending
+2024-10-28,Bandung,Daihatsu,Sigra,2024,239,Kredit,Pending
+2023-08-25,Surabaya,Honda,CR-V,2024,340,Kredit,Pending
+2024-10-08,Solo,Daihatsu,Terios,2021,397,Kredit,Batal
+2024-02-24,Semarang,Mitsubishi,Xpander,2018,287,Kredit,Batal
+2024-10-11,Semarang,Honda,HR-V,2023,475,Cash,Pending
+2024-04-29,Yogyakarta,Mitsubishi,Pajero Sport,2024,570,Kredit,Terjual
+2024-12-18,Medan,Honda,CR-V,2021,559,Cash,Terjual
+2024-09-11,Yogyakarta,Daihatsu,Sigra,2020,313,Leasing,Pending
+2025-05-23,Jakarta,Daihatsu,Sigra,2024,309,Kredit,Pending
+2024-04-02,Surabaya,Honda,Brio,2020,615,Kredit,Terjual
+2024-11-18,Surabaya,Daihatsu,Terios,2019,166,Kredit,Batal
+2024-08-28,Jakarta,Honda,Brio,2020,253,Leasing,Batal
+2024-04-14,Yogyakarta,Honda,CR-V,2023,203,Leasing,Pending
+2024-12-29,Bandung,Toyota,Avanza,2020,614,Leasing,Batal
+2025-05-27,Medan,Suzuki,XL7,2024,423,Cash,Batal
+2025-03-22,Makassar,Honda,Civic,2020,277,Kredit,Terjual
+2024-09-20,Yogyakarta,Honda,Brio,2019,394,Kredit,Terjual
+2023-06-26,Jakarta,Suzuki,Ertiga,2018,354,Leasing,Pending
+2024-06-14,Semarang,Honda,Civic,2018,610,Leasing,Terjual
+2024-12-16,Jakarta,Toyota,Innova,2023,223,Kredit,Pending
+2024-05-21,Surabaya,Suzuki,XL7,2018,414,Leasing,Batal
+2024-05-26,Makassar,Mitsubishi,Xpander,2019,450,Cash,Batal
+2023-01-04,Semarang,Toyota,Raize,2019,548,Cash,Terjual
+2024-09-13,Yogyakarta,Toyota,Avanza,2018,422,Kredit,Pending
+2023-03-08,Medan,Honda,Brio,2019,130,Kredit,Pending
+2023-05-28,Bandung,Suzuki,XL7,2020,466,Cash,Pending
+2025-05-11,Yogyakarta,Honda,CR-V,2022,523,Kredit,Pending
+2024-04-13,Bandung,Mitsubishi,Xpander,2019,480,Kredit,Terjual
+2024-05-07,Surabaya,Suzuki,Baleno,2021,536,Leasing,Pending
+2023-03-08,Solo,Toyota,Innova,2023,182,Cash,Batal
+2023-05-30,Yogyakarta,Toyota,Raize,2020,625,Cash,Terjual
+2024-12-25,Jakarta,Toyota,Avanza,2022,122,Leasing,Pending
+2023-05-08,Jakarta,Daihatsu,Terios,2021,391,Kredit,Pending
+2023-09-04,Yogyakarta,Daihatsu,Terios,2024,312,Cash,Batal
+2024-09-13,Jakarta,Honda,HR-V,2018,265,Cash,Batal
+2023-04-26,Makassar,Toyota,Raize,2019,409,Kredit,Batal
+2025-06-11,Jakarta,Mitsubishi,Xpander,2024,267,Kredit,Batal
+2025-04-22,Medan,Honda,Civic,2024,491,Leasing,Batal
+2023-01-22,Jakarta,Toyota,Raize,2018,643,Cash,Terjual
+2025-01-27,Medan,Mitsubishi,Xpander,2019,185,Cash,Terjual
+2023-08-31,Makassar,Honda,Brio,2024,410,Leasing,Batal
+2023-06-25,Jakarta,Toyota,Fortuner,2020,238,Kredit,Pending
+2023-07-25,Makassar,Mitsubishi,Pajero Sport,2019,157,Cash,Batal
+2024-03-17,Jakarta,Mitsubishi,Pajero Sport,2022,398,Kredit,Batal
+2024-09-29,Medan,Suzuki,Baleno,2018,390,Cash,Batal
+2025-05-17,Bandung,Suzuki,Ertiga,2023,552,Kredit,Terjual
+2023-10-04,Makassar,Honda,Civic,2023,580,Cash,Batal
+2024-05-15,Surabaya,Mitsubishi,Xpander,2021,237,Leasing,Batal
+2024-10-23,Semarang,Honda,CR-V,2024,293,Kredit,Pending
+2025-02-11,Semarang,Honda,Brio,2023,479,Kredit,Batal
+2024-11-26,Surabaya,Honda,CR-V,2020,332,Leasing,Batal
+2025-02-26,Bandung,Suzuki,Baleno,2021,558,Cash,Terjual
+2024-02-22,Bandung,Toyota,Fortuner,2022,591,Cash,Terjual
+2024-08-06,Bandung,Suzuki,Ertiga,2023,576,Cash,Pending
+2025-01-01,Surabaya,Mitsubishi,Xpander,2023,578,Kredit,Pending
+2023-06-27,Surabaya,Suzuki,Baleno,2021,267,Cash,Pending
+2023-02-16,Semarang,Honda,Civic,2019,288,Kredit,Pending
+2023-05-30,Solo,Toyota,Raize,2018,355,Kredit,Batal
+2024-01-05,Yogyakarta,Suzuki,Ertiga,2021,369,Kredit,Terjual
+2025-01-19,Yogyakarta,Mitsubishi,Xpander,2021,469,Kredit,Pending
+2024-07-09,Makassar,Daihatsu,Sigra,2023,649,Leasing,Pending
+2023-02-04,Jakarta,Mitsubishi,Xpander,2022,411,Leasing,Pending
+2024-11-09,Surabaya,Honda,Civic,2020,647,Cash,Batal
+2023-04-29,Yogyakarta,Daihatsu,Terios,2018,124,Cash,Pending
+2025-02-13,Surabaya,Honda,CR-V,2019,542,Leasing,Terjual
+2024-08-27,Medan,Mitsubishi,Xpander,2022,606,Cash,Batal
+2025-06-16,Bandung,Toyota,Raize,2020,488,Leasing,Terjual
+2023-09-27,Solo,Suzuki,XL7,2022,349,Kredit,Terjual
+2024-11-20,Surabaya,Suzuki,Baleno,2018,188,Cash,Terjual
+2024-09-01,Makassar,Suzuki,Ertiga,2021,501,Leasing,Batal
+2025-05-18,Surabaya,Daihatsu,Sigra,2018,367,Cash,Terjual
+2023-05-25,Jakarta,Honda,HR-V,2023,571,Leasing,Pending
+2024-04-13,Makassar,Toyota,Innova,2024,259,Cash,Pending
+2024-09-08,Bandung,Daihatsu,Terios,2019,461,Cash,Batal
+2024-12-26,Bandung,Suzuki,XL7,2020,213,Cash,Terjual
+2024-02-28,Medan,Daihatsu,Terios,2022,587,Kredit,Pending
+2024-08-19,Solo,Suzuki,XL7,2020,303,Leasing,Terjual
+2025-01-19,Solo,Suzuki,Baleno,2020,266,Kredit,Batal
+2024-11-02,Solo,Honda,HR-V,2021,405,Cash,Pending
+2025-03-16,Yogyakarta,Mitsubishi,Pajero Sport,2020,235,Kredit,Batal
+2023-11-07,Bandung,Mitsubishi,Pajero Sport,2018,545,Kredit,Terjual
+2023-02-25,Solo,Honda,CR-V,2019,155,Cash,Batal
+2024-01-13,Solo,Suzuki,Ertiga,2020,279,Cash,Batal
+2024-02-11,Semarang,Honda,CR-V,2019,555,Leasing,Pending
+2024-11-09,Yogyakarta,Daihatsu,Sigra,2021,525,Kredit,Terjual
+2023-06-29,Surabaya,Mitsubishi,Pajero Sport,2022,520,Cash,Batal
+2024-10-22,Yogyakarta,Suzuki,Ertiga,2024,267,Leasing,Terjual
+2023-12-03,Surabaya,Mitsubishi,Xpander,2024,201,Kredit,Pending
+2023-09-14,Makassar,Suzuki,Ertiga,2018,253,Kredit,Terjual
+2023-09-12,Makassar,Honda,CR-V,2019,612,Leasing,Terjual
