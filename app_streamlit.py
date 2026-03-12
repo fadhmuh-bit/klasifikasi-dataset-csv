@@ -9,26 +9,27 @@ from sklearn.pipeline import Pipeline
 
 st.title("Auto Machine Learning CSV")
 
-file = st.file_uploader("Upload Dataset CSV", type=["csv"])
+file = st.file_uploader("Upload CSV", type=["csv"])
 
 if file is not None:
 
     df = pd.read_csv(file)
 
-    st.subheader("Dataset")
+    # bersihkan data
+    df = df.dropna()
+    df = df.drop_duplicates()
+
+    st.write("Dataset")
     st.dataframe(df)
 
-    # pilih target
-    target = st.selectbox("Pilih Kolom Target", df.columns)
+    target = st.selectbox("Pilih Target", df.columns)
 
     X = df.drop(columns=[target])
     y = df[target]
 
-    # deteksi tipe kolom
     numeric_columns = X.select_dtypes(include=["int64","float64"]).columns
     categorical_columns = X.select_dtypes(include=["object"]).columns
 
-    # preprocessing
     preprocessing = ColumnTransformer(
         transformers=[
             ("num", StandardScaler(), numeric_columns),
@@ -39,7 +40,7 @@ if file is not None:
     model = Pipeline(
         steps=[
             ("prep", preprocessing),
-            ("model", LogisticRegression())
+            ("model", LogisticRegression(max_iter=1000))
         ]
     )
 
@@ -49,6 +50,8 @@ if file is not None:
 
     model.fit(X_train, y_train)
 
+    st.success("Model berhasil dilatih")
+
     st.subheader("Input Data Baru")
 
     input_data = {}
@@ -56,24 +59,14 @@ if file is not None:
     for col in X.columns:
 
         if col in numeric_columns:
-            input_data[col] = st.slider(
-                col,
-                int(df[col].min()),
-                int(df[col].max()),
-                int(df[col].median())
-            )
-
+            input_data[col] = st.number_input(col, value=float(df[col].median()))
         else:
-            input_data[col] = st.selectbox(
-                col,
-                df[col].unique()
-            )
+            input_data[col] = st.selectbox(col, df[col].unique())
 
     if st.button("Prediksi"):
 
         data_baru = pd.DataFrame([input_data])
 
-        prediksi = model.predict(data_baru)[0]
+        pred = model.predict(data_baru)[0]
 
-        st.success(f"Hasil Prediksi: {prediksi}")
-        st.balloons()
+        st.success(f"Hasil Prediksi: {pred}")
